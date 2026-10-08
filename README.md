@@ -9,4 +9,7 @@ The number of initial particles needs to be adjusted as well (N_INITIAL_ACTIVE).
 
 If initializing your own MHD run, make sure to use the proper values to initialize that simulation according to the date and time you want to measure.
 
+All files that are needed are included in the repository here. You will need to update the paths for yourself locally to match where you have the data stored in the code
+
+
 
